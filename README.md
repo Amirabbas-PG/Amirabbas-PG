@@ -2,7 +2,13 @@
 - 🤩  I am interested in WordPress, SEO, HTML, CSS
 - 😍  I love programming, books, movies, music
 - 👨‍🎓  I am learning WordPress, SEO, Linux
-  
+## my skills
+| Skills | Ability level  |
+| ------------- | ------------- |
+| Wordpress  |  Excellent       |
+| SEO        |  Good      |
+| HTML       |  Good      |
+| CSS        |  Good      |
 ## Examples of my work:
 Write some articles on the site [Shahbaz Service](https://shahbazservice.com/) And doing its SEO
 
